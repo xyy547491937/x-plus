@@ -1,0 +1,114 @@
+{
+  "id": "3763612",
+  "name": "x-plus",
+  "font_family": "x-ui-icons",
+  "css_prefix_text": "x-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "32758747",
+      "name": "icon_语音",
+      "font_class": "icon_yuyin",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "32758748",
+      "name": "icon_收货地址",
+      "font_class": "icon_shouhuodizhi",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "32758749",
+      "name": "icon_显示",
+      "font_class": "icon_xianshi",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "32758750",
+      "name": "icon_客服",
+      "font_class": "icon_kefu",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "32758751",
+      "name": "icon_关联内容",
+      "font_class": "icon_guanlianneirong",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "32758752",
+      "name": "icon_日期",
+      "font_class": "icon_riqi",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "32758753",
+      "name": "icon_退出",
+      "font_class": "icon_tuichu",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "32758754",
+      "name": "icon_编辑",
+      "font_class": "icon_bianji",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "32758755",
+      "name": "icon_删除",
+      "font_class": "icon_shanchu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "32758756",
+      "name": "icon_发布",
+      "font_class": "icon_fabu",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "32758757",
+      "name": "icon_推荐",
+      "font_class": "icon_tuijian",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "32758758",
+      "name": "icon_视频",
+      "font_class": "icon_shipin",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "32758759",
+      "name": "icon_搜索",
+      "font_class": "icon_sousuo",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "32758760",
+      "name": "icon_测试",
+      "font_class": "icon_ceshi",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "32758761",
+      "name": "icon_转载",
+      "font_class": "icon_zhuanzai",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    }
+  ]
+}

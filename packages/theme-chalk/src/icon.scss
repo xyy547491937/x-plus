@@ -1,0 +1,77 @@
+@use './mixins/mixins.scss' as *;
+@font-face {
+    font-family: "x-ui-icons"; /* Project id 3763612 */
+    src: url('./fonts/iconfont.woff2?t=1668089144852') format('woff2'),
+         url('./fonts/iconfont.woff?t=1668089144852') format('woff'),
+         url('./fonts/iconfont.ttf?t=1668089144852') format('truetype');
+  }
+  
+  [class^='#{$namespace}-icon'],[class*= '#{$namespace}-icon'] {
+    font-family: "x-ui-icons" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .#{$namespace}-icon-icon_yuyin:before {
+    content: "\e63b";
+  }
+  
+  .#{$namespace}-icon-icon_shouhuodizhi:before {
+    content: "\e63c";
+  }
+  
+  .#{$namespace}-icon-icon_xianshi:before {
+    content: "\e63d";
+  }
+  
+  .#{$namespace}-icon-icon_kefu:before {
+    content: "\e63e";
+  }
+  
+  .#{$namespace}-icon-icon_guanlianneirong:before {
+    content: "\e63f";
+  }
+  
+  .#{$namespace}-icon-icon_riqi:before {
+    content: "\e640";
+  }
+  
+  .#{$namespace}-icon-icon_tuichu:before {
+    content: "\e641";
+  }
+  
+  .#{$namespace}-icon-icon_bianji:before {
+    content: "\e642";
+  }
+  
+  .#{$namespace}-icon-icon_shanchu:before {
+    content: "\e643";
+  }
+  
+  .#{$namespace}-icon-icon_fabu:before {
+    content: "\e644";
+  }
+  
+  .#{$namespace}-icon-icon_tuijian:before {
+    content: "\e645";
+  }
+  
+  .#{$namespace}-icon-icon_shipin:before {
+    content: "\e646";
+  }
+  
+  .#{$namespace}-icon-icon_sousuo:before {
+    content: "\e647";
+  }
+  
+  .#{$namespace}-icon-icon_ceshi:before {
+    content: "\e648";
+  }
+  
+  .#{$namespace}-icon-icon_zhuanzai:before {
+    content: "\e649";
+  }
+  
+  
