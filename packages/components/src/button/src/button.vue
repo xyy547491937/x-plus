@@ -1,11 +1,10 @@
 <template>
-  <button class="k-button" :class="styleClass">
+  <button class="x-button" :class="styleClass">
       <slot />
   </button>
 </template>
 
 <script lang="ts">
-import './style/index.less'
 import { defineComponent, computed } from 'vue'
 import { buttonProps } from './button'
 export default defineComponent({
@@ -13,8 +12,12 @@ export default defineComponent({
   props: buttonProps,
   setup(props) {
       const styleClass = computed(() => { 
-          return {
-              [`k-button--${props.type}`]: props.type
+          return {           
+              [`x-button--${props.type}`]: props.type,
+              'is-plain': props.plain,
+              'is-round': props.round,
+              'is-disabled': props.disabled,
+              [`x-button--${props.size}`]: props.size,
           }
       })
 
